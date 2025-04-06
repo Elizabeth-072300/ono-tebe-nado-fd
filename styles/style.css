@@ -101,6 +101,7 @@
   display: block;
   margin-top: 5px;
   margin-bottom: 20px;
+  letter-spacing: 30px;
 }
 
 .aligned-text_center {
@@ -115,10 +116,6 @@
   text-align: end;
   margin-top: 5px;
   margin-right: 5px;
-}
-
-.aligned-text {
-  letter-spacing: 30px;
 }
 
 .aligned-text .no_letter_spacing {
